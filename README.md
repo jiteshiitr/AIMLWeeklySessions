@@ -1,2 +1,2 @@
-# MachineVisionSeries
-A lecture series on Machine Vision applications with documentation and skeleton codes
+# AIMLWeeklySessions
+Lecture series on latest deep learning applications with documentation and skeleton codes
